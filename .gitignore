@@ -1,0 +1,21 @@
+# Built-in
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+app/build/
+**/build/
+
+# Keystore — NEVER commit signing keys
+*.jks
+*.keystore
+
+# Local config
+.DS_Store
+Thumbs.db

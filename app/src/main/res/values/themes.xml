@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        This theme is applied to the Activity window only.
+        All UI is rendered by Jetpack Compose using HonbuTheme.
+        Extend Theme.AppCompat to avoid needing a separate appcompat dep;
+        if you already have appcompat, switch parent to Theme.AppCompat.DayNight.NoActionBar.
+    -->
+    <style name="Theme.Honbu" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

@@ -1,10 +1,8 @@
 # Honbu — Kendo Training Manager
 
 An Android app for timing kendo matches and drills, organizing them and recording results. It's built with Kotlin and Jetpack Compose.
-![Main Menu](screenshots/main_menu.jpg)
-![Match Timer](screenshots/match_screen.jpg)
-![Pools Setup](screenshots/match_screen.jpg)
 
+<img src="screenshots/main_menu.jpg" width="200" alt="Main Menu" /> <img src="screenshots/pool_setting_screen.jpg" width="200" alt="Pools Setup" /> <img src="screenshots/match_screen.jpg" width="200" alt="Match Timer" /> 
 
 ## Features
 

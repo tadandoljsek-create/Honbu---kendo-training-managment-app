@@ -2,7 +2,7 @@
 
 An Android app for timing kendo matches and drills, organizing them and recording results. It's built with Kotlin and Jetpack Compose.
 
-<img src="screenshots/main_menu.jpg" width="200" alt="Main Menu" /> <img src="screenshots/pool_setting_screen.jpg" width="200" alt="Pools Setup" /> <img src="screenshots/match_screen.jpg" width="200" alt="Match Timer" /> 
+<img src="screenshots/main_menu.jpg" width="250" alt="Main Menu" /> <img src="screenshots/pool_setting_screen.jpg" width="250" alt="Pools Setup" /> <img src="screenshots/match_screen.jpg" width="250" alt="Match Timer" /> 
 
 ## Features
 
